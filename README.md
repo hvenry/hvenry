@@ -1,64 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="center">Hello! My name is Henry Vendittelli.</h1>
+<h3 align="center">I am an undergraduate computer science student in Canada.</h3 align="center">
 
-<head>
-    <title>Github Profile README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
+<h3> About me: </h3>
 
-        .container {
-            background-color: white;
-            padding: 2rem;
-            border-radius: 5px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
+<ul>
+  <li>I love working in the full stack of software development.</li>
+  <li>I’m currently working a sentiment analysis ML model.</li>
+  <li>Always looking to collaborate, feel free to reach out!</li>
+</ul>
 
-        h1 {
-            margin-bottom: 1rem;
-        }
+<h3> Connect: </h3>
+<a href="https://www.linkedin.com/in/henryvendittelli/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="30" /></a>
 
-        ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-
-        li {
-            margin: 0 1rem;
-            font-size: 1.2rem;
-        }
-    </style>
-</head>
-
-<body>
-    <div class="container">
-        <h1>My Programming Languages</h1>
-        <ul>
-            <li>Python</li>
-            <li>JavaScript</li>
-            <li>Java</li>
-            <li>C#</li>
-            <li>C</li>
-            <li>ReactJS</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>Yarn</li>
-            <li>NodeJS</li>
-            <li>MySQL</li>
-        </ul>
-    </div>
-</body>
-
-</html>
+<h3> Tools: </h3>
+<a href="" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
