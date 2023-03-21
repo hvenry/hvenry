@@ -9,7 +9,7 @@
   <li>Always looking to collaborate, feel free to reach out!</li>
 </ul>
 
-<h3> Reach out: </h3>
+<h3> Connect: </h3>
 <a href="https://www.linkedin.com/in/henryvendittelli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="30" /></a>
 <!--
 **hvenry/hvenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
