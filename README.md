@@ -4,7 +4,6 @@
 <h3> About me: </h3>
 
 <ul>
-  <li>.</li>
   <li>I love working in the full stack of software development.</li>
   <li>I’m currently working a sentiment analysis ML model.</li>
   <li>Always looking to collaborate, feel free to reach out!</li>
