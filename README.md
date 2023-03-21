@@ -11,3 +11,10 @@
 
 <h3> Connect: </h3>
 <a href="https://www.linkedin.com/in/henryvendittelli/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="30" /></a>
+
+<h3> Tools: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,js,react,html,css,materialui,nodejs,mysql,java,c,cs" />
+  </a>
+</p>
