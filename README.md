@@ -11,6 +11,3 @@
 
 <h3> Connect: </h3>
 <a href="https://www.linkedin.com/in/henryvendittelli/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="30" /></a>
-
-<h3> Tools: </h3>
-<a href="" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
