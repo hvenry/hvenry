@@ -1,5 +1,13 @@
 <h1 align="center">Hello! My name is Henry Vendittelli.</h1>
-<h2 align="center">I am a computer science student.</h2 align="center">
+<h2 align="center">I am an undergraduate computer science student.</h2 align="center">
+
+
+<ul>
+  <li>I’m currently working a sentiment analysis ML model.</li>
+  <li></li>
+  <li></li>
+</ul>
+
 
 <!--
 **hvenry/hvenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
