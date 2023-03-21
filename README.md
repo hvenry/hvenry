@@ -1,7 +1,6 @@
-<h1 align="center">Hello! My name is Henry Vendittelli.</h1>
-<h2 align="center">I am an undergraduate computer science student.</h2 align="center">
-
-
+<h1 align="center"><b>Hello!</b> My name is Henry Vendittelli.</h1>
+<h3 align="center"><i>I am an undergraduate computer science student.</i></h3 align="center">
+<h3> About me: </h3>
 <ul>
   <li>I’m currently working a sentiment analysis ML model.</li>
   <li></li>
