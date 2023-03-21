@@ -9,12 +9,15 @@
   <li>Always looking to collaborate, feel free to reach out!</li>
 </ul>
 
-<h3> Connect: </h3>
-<a href="https://www.linkedin.com/in/henryvendittelli/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="30" /></a>
-
 <h3> Tools: </h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,js,react,html,css,materialui,nodejs,mysql,java,c,cs" />
+    <img src="https://skillicons.dev/icons?i=git,py,js,react,html,css,materialui,nodejs,mysql,java,c,cs,lua,unity" />
+  </a>
+</p>
+
+<h3>Connect With Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/henryvendittelli/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="40"/>
   </a>
 </p>
